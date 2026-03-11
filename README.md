@@ -1,8 +1,8 @@
 # INFRASEGURA
 
-## 📸 Imagens do Projeto
+## 📸
 
-![Imagem do Projeto](./images/WhatsApp%20Image%202026-03-11%20at%2011.06.51%20AM.jpeg)
+![](./images/WhatsApp%20Image%202026-03-11%20at%2011.06.51%20AM.jpeg)
 
 ## 📋 Escopo do Projeto INFRASEGURA
 
