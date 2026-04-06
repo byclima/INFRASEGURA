@@ -2,7 +2,7 @@
 
 ## 📸
 
-![](./img/logo_infrasegura.jpg)
+![](./img/Infra_antigo.jpg)
 
 ## 📋 Escopo do Projeto INFRASEGURA
 
@@ -50,5 +50,5 @@ O documento tem como objetivo central diagnosticar o estado atual das práticas 
 
 ## 📸 Imagens do Projeto
 
-![](./img/logo_infrasegura.jpg)
+![](./img/Infra_antigo.jpg)
 
